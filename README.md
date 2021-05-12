@@ -1,4 +1,4 @@
-
+![Python Badge](https://img.shields.io/badge/python-3.9.2-blue?logo=python) ![Pygame Badge](https://img.shields.io/badge/pygame-2.0.1-brightgreen)
 
 # Pong
 
@@ -13,7 +13,7 @@ Pong is one of the first computer games that ever created, this simple "tennis l
 
 ### Pre requisites
 
-- [Python](https://www.python.org/downloads/) - 3.9 or up
+- [Python][python-download] - 3.9 or up
 
 
 ### Installation
@@ -22,7 +22,7 @@ Pong is one of the first computer games that ever created, this simple "tennis l
 
 Inside the Pipfile there's all the modules name needed for the project. 
 
-1. Download Pipenv through the terminal window (make sure you have [Python](https://www.python.org/downloads/) installed):
+1. Download Pipenv through the terminal window (make sure you have [Python][python-download] installed):
 
 	```python
     pip install pipenv
@@ -52,5 +52,7 @@ If any doubts here's a link to some more explanations: [Pipenv](https://pipenv-f
 python pong.py
 ```
 
-Enjoy the game :D
+Enjoy the game :smiley:
 
+
+[python-download]: https://www.python.org/downloads/
