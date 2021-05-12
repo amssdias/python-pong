@@ -22,7 +22,7 @@ Pong is one of the first computer games that ever created, this simple "tennis l
 
 Inside the Pipfile there's all the modules name needed for the project. 
 
-1. Download Pipenv through the terminal window (make sure you have [Python](https://www.python.org/downloads/) installed), just type:
+1. Download Pipenv through the terminal window (make sure you have [Python](https://www.python.org/downloads/) installed):
 
 	```python
     pip install pipenv
@@ -38,13 +38,11 @@ Inside the Pipfile there's all the modules name needed for the project.
 3. We must have this virtual environment to run our program, through the terminal window:
 
 	```python
-    pipenv shell  # To run the virtual environment
-    exit 		  # To close the virtual environment
+    pipenv shell # To run the virtual environment
+    exit        # To close the virtual environment
     ```
 
-If any doubts here's a link to some more explanations:
-
-- [Pipenv](https://pipenv-fork.readthedocs.io/en/latest/basics.html)
+If any doubts here's a link to some more explanations: [Pipenv](https://pipenv-fork.readthedocs.io/en/latest/basics.html)
 
 ## Run
 
@@ -53,4 +51,6 @@ If any doubts here's a link to some more explanations:
 ```
 python pong.py
 ```
+
+Enjoy the game :D
 
