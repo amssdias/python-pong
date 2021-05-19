@@ -1,5 +1,5 @@
-<p>
-	<img src="media/pong-logo.png">
+<p style="display:flex; justify-content:center; margin-bottom: 50px;">
+	<img src="media/pong-logo.png" style="width: 20rem;">
 </p>
 
 ![Python Badge](https://img.shields.io/badge/python-3.9.2-blue?logo=python) ![Pygame Badge](https://img.shields.io/badge/pygame-2.0.1-brightgreen)
