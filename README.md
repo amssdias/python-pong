@@ -1,4 +1,4 @@
-<p style="display:flex; justify-content:center; margin-bottom: 50px;">
+<p align="center">
 	<img src="media/pong-logo.png" width="300">
 </p>
 
