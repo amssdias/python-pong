@@ -1,6 +1,10 @@
+<p>
+	<img src="media/pong-logo.png">
+</p>
+
 ![Python Badge](https://img.shields.io/badge/python-3.9.2-blue?logo=python) ![Pygame Badge](https://img.shields.io/badge/pygame-2.0.1-brightgreen)
 
-# Pong
+## :pencil: ABout the project
 
 Pong is one of the first computer games that ever created, this simple "tennis like" game features two paddles and a ball, the goal is to defeat your opponent by being the first one to gain 10 points, a player gets a point once the opponent misses a ball.
 
@@ -9,7 +13,7 @@ Pong is one of the first computer games that ever created, this simple "tennis l
 - [Pygame](https://www.pygame.org/news)
 
 
-## Getting started
+## :book: Getting started
 
 ### Pre requisites
 
@@ -44,7 +48,7 @@ Inside the Pipfile there's all the modules name needed for the project.
 
 If any doubts here's a link to some more explanations: [Pipenv](https://pipenv-fork.readthedocs.io/en/latest/basics.html)
 
-## Run
+## :runner: Run
 
 - Download the project, open terminal window on folder with 'pong.py' and type:
 
